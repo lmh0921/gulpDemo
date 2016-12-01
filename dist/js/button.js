@@ -1,0 +1,1 @@
+var clickPic=function(){alert("呵呵")};
